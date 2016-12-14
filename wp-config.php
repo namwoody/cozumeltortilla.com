@@ -23,6 +23,7 @@
 define('DB_NAME', 'cozumel');
 
 /** MySQL database username */
+/** sample **/
 define('DB_USER', 'root');
 
 /** MySQL database password */

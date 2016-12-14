@@ -1,0 +1,33 @@
+.navigation {
+	border: 1px solid #eef;
+	background-color: #fff;
+
+	nav {
+		ul{
+			li {
+				display:inline;
+				margin-left:40px;
+				line-height: 45px;
+				float:left;
+				
+				a{
+				 color:$primarycolor;
+				 text-transform:uppercase;
+				 				
+				}
+
+			}
+
+			li:last-child {
+				background-color: $primarycolor;
+
+				a {
+					color: #fff;
+					padding: 0 5px;
+				}
+
+			}	
+		}
+	}
+
+}

@@ -1,0 +1,19 @@
+{
+  "name": "cozumel",
+  "description": "cozumel",
+  "main": "gulpfile.js",
+  "authors": [
+    "namwoody <deepsarora262@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aaronallport/starkers",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ]
+}

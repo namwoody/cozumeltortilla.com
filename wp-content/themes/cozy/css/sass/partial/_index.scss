@@ -1,0 +1,29 @@
+.slider {
+	text-align: center;
+	margin-top: 20px;
+}
+.catering-font {
+	font-weight: 300;
+	font-size: 1.7em;
+	color: $primarycolor;
+	margin-top: 20px;
+
+}
+
+#slide1 {
+	float:left;
+	width: 50%;
+	img {
+	width:480px;
+	}	
+}
+#slide2{
+	float:right;
+	width: 50%;
+	img {
+
+	}
+}
+#front-slider {
+	border-bottom: 1px solid $primary;
+}
